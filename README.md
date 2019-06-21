@@ -1,5 +1,6 @@
 # INFO7374-finanace-machine-learning
 Machine Learning in Finance - Team Facebook
+    
     homework 1: exploratory analysis for FB stock
     homework 2: garch and kalman filter for FB stock
     homework 3: Fama-French 3 factor model
